@@ -111,7 +111,7 @@ int main()
 
     printf("Created array:\n");
     for (int i = 0; i < 5; i++) {
-        printf("%d: %d \n",i, *(arr + i));
+        printf("%d: %d \n",i, *(array + i));
     }
     printf("\n");
 
